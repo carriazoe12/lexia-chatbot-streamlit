@@ -20,13 +20,15 @@ LexIA es un prototipo de chatbot jurídico especializado en Derecho español y e
 
 ## Estructura del Proyecto
 
+```text
 lexia_chatbot/
-├── main.py # Aplicación principal de Streamlit (UI, flujo de chat, gestión de conversaciones)
-├── supabase_client.py # Cliente y funciones de autenticación de Supabase
-├── chat_utils.py # Lógica de LLM (OpenAI, Gemini), gestión de historial, prompt, operaciones de BD para chat
-├── requirements.txt # Dependencias del proyecto
-├── .env.example # Ejemplo de archivo de variables de entorno
-└── README.md # Este archivo
+├── main.py                # Aplicación principal de Streamlit (UI, flujo de chat, gestión de conversaciones)
+├── supabase_client.py     # Cliente y funciones de autenticación de Supabase
+├── chat_utils.py          # Lógica de LLM (OpenAI, Gemini), gestión de historial, prompt, operaciones de BD para chat
+├── requirements.txt       # Dependencias del proyecto
+├── .env.example           # Ejemplo de archivo de variables de entorno (NO subir .env)
+└── README.md              # Este archivo
+```
 
 ## Configuración de Supabase (Base de Datos y Auth)
 
