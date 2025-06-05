@@ -6,7 +6,7 @@ env/
 */env/
 ENV/
 
-# Archivos de variables de entorno (¡MUY IMPORTANTE!)
+# Archivos de variables de entorno 
 .env
 *.env
 
@@ -26,5 +26,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Archivos de dependencias de Streamlit (si se generan localmente)
+# Archivos de dependencias de Streamlit 
 .streamlit/
