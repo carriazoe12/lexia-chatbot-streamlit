@@ -1,0 +1,30 @@
+# Entornos virtuales
+venv/
+*/venv/
+.venv/
+env/
+*/env/
+ENV/
+
+# Archivos de variables de entorno (¡MUY IMPORTANTE!)
+.env
+*.env
+
+# Caché de Python y archivos compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos específicos de IDEs/editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencias de Streamlit (si se generan localmente)
+.streamlit/
