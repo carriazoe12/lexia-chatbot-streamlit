@@ -2,8 +2,6 @@
 
 LexIA es un prototipo de chatbot jurídico especializado en Derecho español y europeo. Permite a los usuarios interactuar con modelos de lenguaje como GPT (OpenAI) o Gemini (Google) utilizando sus propias claves de API. La aplicación gestiona la autenticación de usuarios, múltiples conversaciones y el historial de mensajes mediante Supabase.
 
-## Video Demostrativo
-[Ver demostración en YouTube](URL_DEL_VIDEO_AQUI)
 
 ## Características Principales
 
