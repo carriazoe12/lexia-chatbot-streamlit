@@ -24,8 +24,8 @@ lexia_chatbot/
 ├── supabase_client.py     # Cliente y funciones de autenticación de Supabase
 ├── chat_utils.py          # Lógica de LLM (OpenAI, Gemini), gestión de historial, prompt, operaciones de BD para chat
 ├── requirements.txt       # Dependencias del proyecto
-├── .env.example           # Ejemplo de archivo de variables de entorno (NO subir .env)
-└── README.md              # Este archivo
+├── .env.example           # Ejemplo de archivo de variables de entorno.
+└── README.md             
 ```
 
 ## Configuración de Supabase (Base de Datos y Auth)
